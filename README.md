@@ -3,11 +3,14 @@
 Готовый contract-first проект OpenAPI 3.1 для библиотеки. Он описывает поведение API, но не содержит backend и не заявляет, что mock уже запущен.
 
 ## Файлы
+
+```
 library-api/
 ├── openapi.yaml
 ├── STYLE.md
 ├── REVIEW.md
 └── README.md
+```
 
 ## Ресурсы
 
